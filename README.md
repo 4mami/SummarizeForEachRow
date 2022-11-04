@@ -1,0 +1,2 @@
+# SummarizeForEachRow
+テキストファイルを1行ずつ要約する
